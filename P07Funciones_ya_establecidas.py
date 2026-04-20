@@ -1,3 +1,4 @@
+#BRANDON GAEL SANTACRUZ SORIA
 numeros = [5, 10, 15, 20]
 
 print("Suma:", sum(numeros))      # suma los valores
