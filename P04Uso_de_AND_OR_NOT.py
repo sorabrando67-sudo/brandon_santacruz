@@ -1,3 +1,4 @@
+#BRANDON GAEL SANTACRUZ SORIA
 edad = int(input("Ingresa tu edad: "))
 tiene_credencial = input("¿Tienes credencial? (si/no): ")
 llueve = input("¿Está lloviendo? (si/no): ")
