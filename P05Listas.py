@@ -1,3 +1,4 @@
+#BRANDON GAEL SANTACRUZ SORIA
 numeros = [10, 20, 30, 40, 50]
 
 print("Lista completa:", numeros)
