@@ -1,3 +1,4 @@
+#BRANDON GAEL SANTACRUZ SORIA
 total = float(input("Ingresa el total de la compra: "))
 membresia = input("¿Tienes membresía? (si/no): ")
 
