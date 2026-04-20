@@ -1,3 +1,4 @@
+#BRANDON GAEL SANTACRUZ SORIA
 # Pedir las tres calificaciones
 cal1 = float(input("Ingresa la primera calificación: "))
 cal2 = float(input("Ingresa la segunda calificación: "))
